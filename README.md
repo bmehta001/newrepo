@@ -1,5 +1,5 @@
 # newrepo
 A new test repository
 
-Another change to line 4
+ADD SOME MORE LINES HERE
 Let's make this a bit longer
